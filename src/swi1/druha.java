@@ -14,5 +14,5 @@ public class druha {
 //komentare..
     //dalsie komentare
     //stvrty komentar
-    
+    //komentare z webu
 }
