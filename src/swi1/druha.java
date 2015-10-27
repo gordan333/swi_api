@@ -13,6 +13,6 @@ package swi1;
 public class druha {
 //komentare..
     //dalsie komentare
-    //stvrty komentar check out
-    
+    //stvrty komentar
+    //komentare z webu
 }
