@@ -11,5 +11,5 @@ package swi1;
  * @author Ondrej
  */
 public class druha {
-    
+//komentare..
 }
