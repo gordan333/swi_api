@@ -12,4 +12,5 @@ package swi1;
  */
 public class druha {
 //komentare..
+    //dalsie komentare
 }
