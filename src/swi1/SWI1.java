@@ -13,6 +13,7 @@ package swi1;
 public class SWI1 {
 
     /**
+     * 
      * @param args the command line arguments
      */
     public static void main(String[] args) {
